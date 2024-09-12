@@ -20,4 +20,4 @@ def print_fibonacci_pyramid(rows):
 rows = 5
 print_fibonacci_pyramid(rows)
 #5
-rows = #8
+rows = 8
